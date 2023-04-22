@@ -1,4 +1,4 @@
-# MacroCode
+# Macro Code
 ## Implementation of 2 Pass Macroprocessor in C Language
 ### This C code takes the Macro code as Input from ip.txt file.
 ### Generates Mdt_1.txt and Mdt_2.txt files containing Macro definition tables for both the passes.
