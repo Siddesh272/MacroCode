@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/90123105/235095069-50c3201c-0cc0-4c6c-89dc-77fa185cc568.png)
+
 # Macro Code
 ## Implementation of 2 Pass Macroprocessor in C Language
 ### This C code takes the Macro code as Input from ip.txt file.
