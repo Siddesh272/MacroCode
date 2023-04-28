@@ -1,9 +1,0 @@
-Index	Definitions
-1		ADD	DATA1	DATA2
-2		L	1	DATA1
-3		A	1	DATA2
-4		MEND		
-5		SUB	DATA3	DATA4
-6		L	1	DATA3
-7		S	1	DATA4
-8		MEND		
