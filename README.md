@@ -1,4 +1,4 @@
-#Two Pass Code
+# Two Pass Code
 ## Implementation of 2 Pass Assembler in C Language
 ### 1. This C code takes the high level code as Input from input.txt file along with opcode.txt file to get the mnemonics.
 ### 2. Generates symbol table for variables declared in the form of symtab.txt
