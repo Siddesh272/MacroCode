@@ -1,0 +1,9 @@
+Index	Definitions
+1		ADD	#1	#2
+2		L	1	#1
+3		A	1	#2
+4		MEND
+5		SUB	#3	#4
+6		L	1	#3
+7		S	1	#4
+8		MEND
