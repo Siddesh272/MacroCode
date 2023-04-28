@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/90123105/235095069-50c3201c-0cc0-4c6c-89dc-77fa185cc568.png)
+![image](https://user-images.githubusercontent.com/90123105/235095254-80b845e9-598a-4439-b33d-a6e94d0429d5.png)
 
 # Macro Code
 ## Implementation of 2 Pass Macroprocessor in C Language
